@@ -1,0 +1,10 @@
+.demo-checkbox label,
+.demo-radio-button label {
+  min-width: 150px; }
+
+[type="checkbox"] + label {
+  padding-left: 26px;
+  height: 25px;
+  line-height: 21px;
+  font-size: 13px;
+  font-weight: normal; }
